@@ -8,7 +8,6 @@ class Solution {
                    output[1] = j;
                 }
            }
-            
         }
         return output;
     }
